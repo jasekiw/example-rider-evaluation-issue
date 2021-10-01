@@ -1,0 +1,17 @@
+C:\projects\ExampleRiderEvaluationIssue\ExampleRiderEvaluationIssue\obj\Debug\netcoreapp3.1\ExampleRiderEvaluationIssue.csprojAssemblyReference.cache
+C:\projects\ExampleRiderEvaluationIssue\ExampleRiderEvaluationIssue\obj\Debug\netcoreapp3.1\ExampleRiderEvaluationIssue.AssemblyInfoInputs.cache
+C:\projects\ExampleRiderEvaluationIssue\ExampleRiderEvaluationIssue\obj\Debug\netcoreapp3.1\ExampleRiderEvaluationIssue.AssemblyInfo.cs
+C:\projects\ExampleRiderEvaluationIssue\ExampleRiderEvaluationIssue\obj\Debug\netcoreapp3.1\ExampleRiderEvaluationIssue.csproj.CoreCompileInputs.cache
+C:\projects\ExampleRiderEvaluationIssue\ExampleRiderEvaluationIssue\bin\Debug\netcoreapp3.1\ExampleRiderEvaluationIssue.exe
+C:\projects\ExampleRiderEvaluationIssue\ExampleRiderEvaluationIssue\bin\Debug\netcoreapp3.1\ExampleRiderEvaluationIssue.deps.json
+C:\projects\ExampleRiderEvaluationIssue\ExampleRiderEvaluationIssue\bin\Debug\netcoreapp3.1\ExampleRiderEvaluationIssue.runtimeconfig.json
+C:\projects\ExampleRiderEvaluationIssue\ExampleRiderEvaluationIssue\bin\Debug\netcoreapp3.1\ExampleRiderEvaluationIssue.runtimeconfig.dev.json
+C:\projects\ExampleRiderEvaluationIssue\ExampleRiderEvaluationIssue\bin\Debug\netcoreapp3.1\ExampleRiderEvaluationIssue.dll
+C:\projects\ExampleRiderEvaluationIssue\ExampleRiderEvaluationIssue\bin\Debug\netcoreapp3.1\ExampleRiderEvaluationIssue.pdb
+C:\projects\ExampleRiderEvaluationIssue\ExampleRiderEvaluationIssue\bin\Debug\netcoreapp3.1\Sentry.dll
+C:\projects\ExampleRiderEvaluationIssue\ExampleRiderEvaluationIssue\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\projects\ExampleRiderEvaluationIssue\ExampleRiderEvaluationIssue\bin\Debug\netcoreapp3.1\System.Reflection.Metadata.dll
+C:\projects\ExampleRiderEvaluationIssue\ExampleRiderEvaluationIssue\obj\Debug\netcoreapp3.1\ExampleRiderEvaluationIssue.csproj.CopyComplete
+C:\projects\ExampleRiderEvaluationIssue\ExampleRiderEvaluationIssue\obj\Debug\netcoreapp3.1\ExampleRiderEvaluationIssue.dll
+C:\projects\ExampleRiderEvaluationIssue\ExampleRiderEvaluationIssue\obj\Debug\netcoreapp3.1\ExampleRiderEvaluationIssue.pdb
+C:\projects\ExampleRiderEvaluationIssue\ExampleRiderEvaluationIssue\obj\Debug\netcoreapp3.1\ExampleRiderEvaluationIssue.genruntimeconfig.cache
