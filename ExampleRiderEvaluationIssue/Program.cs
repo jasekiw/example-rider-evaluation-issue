@@ -1,6 +1,5 @@
 ﻿using System;
 using System.Threading.Tasks;
-using Sentry;
 
 namespace ExampleRiderEvaluationIssue
 {
@@ -14,10 +13,11 @@ namespace ExampleRiderEvaluationIssue
             }
             catch (Exception e)
             {
-                SentrySdk.WithScope(scope =>
+                Action x = () =>
                 {
-                    SentrySdk.CaptureException(e);
-                });
+                    Console.WriteLine(e);
+                };
+                x();
             }
         }
     }

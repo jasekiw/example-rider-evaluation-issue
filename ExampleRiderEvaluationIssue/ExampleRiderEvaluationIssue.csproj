@@ -5,8 +5,4 @@
         <TargetFramework>netcoreapp3.1</TargetFramework>
     </PropertyGroup>
 
-    <ItemGroup>
-      <PackageReference Include="Sentry" Version="3.9.4" />
-    </ItemGroup>
-
 </Project>

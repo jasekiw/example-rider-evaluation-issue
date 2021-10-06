@@ -1,12 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wMHweHZKYzU/N2HT7cfsufBpWT7GHSqCsmgOPeAirvonLZ8i5rrXJUUH8SSZ5TqQ724TruTsyrRpyimcClRQlg==",
+  "dgSpecHash": "Ye1L0B1u6ebQghyu/ZHGQ3bL078b8+bpZhqNdJmIYOAYK6vPZAyJQMWrmcpom8MrXEqbSTYDHeRJdENh/+r42A==",
   "success": true,
   "projectFilePath": "C:\\projects\\ExampleRiderEvaluationIssue\\ExampleRiderEvaluationIssue\\ExampleRiderEvaluationIssue.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\Jason\\.nuget\\packages\\sentry\\3.9.4\\sentry.3.9.4.nupkg.sha512",
-    "C:\\Users\\Jason\\.nuget\\packages\\system.collections.immutable\\5.0.0\\system.collections.immutable.5.0.0.nupkg.sha512",
-    "C:\\Users\\Jason\\.nuget\\packages\\system.reflection.metadata\\5.0.0\\system.reflection.metadata.5.0.0.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }
